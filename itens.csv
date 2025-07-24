@@ -1,0 +1,187 @@
+CLIENTE;ESTADO;CONSUMO;CATEGORIA
+A1;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A2;SP;Pulseira, Colar, Gargantilha;TOP
+A3;SP;Brinco, Corrente;NORMAL
+A4;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A5;PR;Pulseira, Colar;TOP
+A6;PR;Brinco, Corrente, Pingente;NORMAL
+A7;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A8;SC;Corrente, Gargantilha, Pulseira;TOP
+A9;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A10;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A11;SP;Pulseira, Colar, Gargantilha;TOP
+A12;SP;Brinco, Corrente;NORMAL
+A13;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A14;PR;Pulseira, Colar;TOP
+A15;PR;Brinco, Corrente, Pingente;NORMAL
+A16;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A17;SC;Corrente, Gargantilha, Pulseira;TOP
+A18;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A19;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A20;SP;Pulseira, Colar, Gargantilha;TOP
+A21;SP;Brinco, Corrente;NORMAL
+A22;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A23;PR;Pulseira, Colar;TOP
+A24;PR;Brinco, Corrente, Pingente;NORMAL
+A25;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A26;SC;Corrente, Gargantilha, Pulseira;TOP
+A27;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A28;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A29;SP;Pulseira, Colar, Gargantilha;TOP
+A30;SP;Brinco, Corrente;NORMAL
+A31;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A32;PR;Pulseira, Colar;TOP
+A33;PR;Brinco, Corrente, Pingente;NORMAL
+A34;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A35;SC;Corrente, Gargantilha, Pulseira;TOP
+A36;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A37;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A38;SP;Pulseira, Colar, Gargantilha;TOP
+A39;SP;Brinco, Corrente;NORMAL
+A40;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A41;PR;Pulseira, Colar;TOP
+A42;PR;Brinco, Corrente, Pingente;NORMAL
+A43;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A44;SC;Corrente, Gargantilha, Pulseira;TOP
+A45;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A46;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A47;SP;Pulseira, Colar, Gargantilha;TOP
+A48;SP;Brinco, Corrente;NORMAL
+A49;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A50;PR;Pulseira, Colar;TOP
+A51;PR;Brinco, Corrente, Pingente;NORMAL
+A52;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A53;SC;Corrente, Gargantilha, Pulseira;TOP
+A54;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A55;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A56;SP;Pulseira, Colar, Gargantilha;TOP
+A57;SP;Brinco, Corrente;NORMAL
+A58;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A59;PR;Pulseira, Colar;TOP
+A60;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A61;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A62;SC;Corrente, Gargantilha, Pulseira;TOP
+A63;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A64;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A65;SP;Pulseira, Colar, Gargantilha;TOP
+A66;SP;Brinco, Corrente;NORMAL
+A67;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A68;PR;Pulseira, Colar;TOP
+A69;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A70;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A71;SC;Corrente, Gargantilha, Pulseira;TOP
+A72;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A73;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A74;SP;Pulseira, Colar, Gargantilha;TOP
+A75;SP;Brinco, Corrente;NORMAL
+A76;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A77;PR;Pulseira, Colar;TOP
+A78;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A79;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A80;SC;Corrente, Gargantilha, Pulseira;TOP
+A81;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A82;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A83;SP;Pulseira, Colar, Gargantilha;TOP
+A84;SP;Brinco, Corrente;NORMAL
+A85;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A86;PR;Pulseira, Colar;TOP
+A87;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A88;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A89;SC;Corrente, Gargantilha, Pulseira;TOP
+A90;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A91;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A92;SP;Pulseira, Colar, Gargantilha;TOP
+A93;SP;Brinco, Corrente;NORMAL
+A94;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A95;PR;Pulseira, Colar;TOP
+A96;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A97;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A98;SC;Corrente, Gargantilha, Pulseira;TOP
+A99;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A100;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A101;SP;Pulseira, Colar, Gargantilha;TOP
+A102;SP;Brinco, Corrente;NORMAL
+A103;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A104;PR;Pulseira, Colar;TOP
+A105;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A106;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A107;SC;Corrente, Gargantilha, Pulseira;TOP
+A108;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A109;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A110;SP;Pulseira, Colar, Gargantilha;TOP
+A111;SP;Brinco, Corrente;NORMAL
+A112;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A113;PR;Pulseira, Colar;TOP
+A114;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A115;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A116;SC;Corrente, Gargantilha, Pulseira;TOP
+A117;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A118;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A119;SP;Pulseira, Colar, Gargantilha;TOP
+A120;SP;Brinco, Corrente;NORMAL
+A121;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A122;PR;Pulseira, Colar;TOP
+A123;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A124;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A125;SC;Corrente, Gargantilha, Pulseira;TOP
+A126;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A127;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A128;SP;Pulseira, Colar, Gargantilha;TOP
+A129;SP;Brinco, Corrente;NORMAL
+A130;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A131;PR;Pulseira, Colar;TOP
+A132;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A133;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A134;SC;Corrente, Gargantilha, Pulseira;TOP
+A135;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A136;SP;Brinco, Anel, Pulseira, Colar;PREMIUM
+A137;SP;Pulseira, Colar, Gargantilha;TOP
+A138;SP;Brinco, Corrente;NORMAL
+A139;PR;Brinco, Anel, Bracelete, Relogio;PREMIUM
+A140;PR;Pulseira, Colar;TOP
+A141;PR;Brinco, Corrente, Pingente, Bracelete;NORMAL
+A142;SC;Colar, Pulseira, Pingente, Anel;PREMIUM
+A143;SC;Corrente, Gargantilha, Pulseira;TOP
+A144;SC;Brinco, Anel, Bracelete, Relogio;NORMAL
+A145;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A146;MG;Pulseira, Colar, Gargantilha;TOP
+A147;MG;Brinco, Corrente;NORMAL
+A148;RJ;Pulseira, Colar;PREMIUM
+A149;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A150;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
+A151;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A152;MG;Pulseira, Colar, Gargantilha;TOP
+A153;MG;Brinco, Corrente;NORMAL
+A154;RJ;Pulseira, Colar;PREMIUM
+A155;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A156;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
+A157;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A158;MG;Pulseira, Colar, Gargantilha;TOP
+A159;MG;Brinco, Corrente;NORMAL
+A160;RJ;Pulseira, Colar;PREMIUM
+A161;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A162;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
+A163;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A164;MG;Pulseira, Colar, Gargantilha;TOP
+A165;MG;Brinco, Corrente;NORMAL
+A166;RJ;Pulseira, Colar;PREMIUM
+A167;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A168;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
+A169;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A170;MG;Pulseira, Colar, Gargantilha;TOP
+A171;MG;Brinco, Corrente;NORMAL
+A172;RJ;Pulseira, Colar;PREMIUM
+A173;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A174;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
+A175;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A176;MG;Pulseira, Colar, Gargantilha;TOP
+A177;MG;Brinco, Corrente;NORMAL
+A178;RJ;Pulseira, Colar;PREMIUM
+A179;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A180;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
+A181;MG;Brinco, Anel, Pulseira, Colar;PREMIUM
+A182;MG;Pulseira, Colar, Gargantilha;TOP
+A183;MG;Brinco, Corrente;NORMAL
+A184;RJ;Pulseira, Colar;PREMIUM
+A185;RJ;Brinco, Anel, Pulseira, Colar;TOP
+A186;RJ;Brinco, Anel, Bracelete, Relogio;NORMAL
